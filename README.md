@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning something about deep learning.
 - 🔭 I’m currently working on diffusion model(DDPM).
-- 📫 How to reach me: (e-mail) zhoujunpingnn@qq.com
+- 📫 How to reach me: (e-mail) zhoujunping0413@qq.com

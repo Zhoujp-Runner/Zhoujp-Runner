@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning something about deep learning.
 - 🔭 I’m currently working on diffusion model(DDPM).
 - 📫 How to reach me: (e-mail) zhoujunping0413@qq.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhoujp-Runner)](https://github.com/anuraghazra/github-readme-stats)
